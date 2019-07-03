@@ -6,4 +6,4 @@ run "npm install" to install dependencies
 
 run "npm start" to start server/app
 
-you might install nodemon if you wanna make changes and not have to initialize de server everytime
+you might want to install nodemon if you wanna make changes and not have to initialize de server everytime
